@@ -1,0 +1,5 @@
+Credentials cache: API:D28661DA-A4AF-47A7-BC2B-964E8A6B9DDF
+        Principal: lcavaill@42LYON.FR
+
+  Issued                Expires               Principal
+Aug 10 13:56:22 2020  Aug 10 23:56:22 2020  krbtgt/42LYON.FR@42LYON.FR
